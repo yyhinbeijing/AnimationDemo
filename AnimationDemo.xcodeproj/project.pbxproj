@@ -15,6 +15,7 @@
 		C476272D1CA0E740005992BA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C476272B1CA0E740005992BA /* LaunchScreen.storyboard */; };
 		C47627381CA0E740005992BA /* AnimationDemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = C47627371CA0E740005992BA /* AnimationDemoTests.m */; };
 		C47627431CA0E740005992BA /* AnimationDemoUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = C47627421CA0E740005992BA /* AnimationDemoUITests.m */; };
+		C47627511CA0E7B8005992BA /* praiseShape00@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C47627501CA0E7B8005992BA /* praiseShape00@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		C476273E1CA0E740005992BA /* AnimationDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AnimationDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C47627421CA0E740005992BA /* AnimationDemoUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AnimationDemoUITests.m; sourceTree = "<group>"; };
 		C47627441CA0E740005992BA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C47627501CA0E7B8005992BA /* praiseShape00@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "praiseShape00@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 			isa = PBXGroup;
 			children = (
 				C47627201CA0E740005992BA /* AppDelegate.h */,
+				C47627501CA0E7B8005992BA /* praiseShape00@2x.png */,
 				C47627211CA0E740005992BA /* AppDelegate.m */,
 				C47627231CA0E740005992BA /* ViewController.h */,
 				C47627241CA0E740005992BA /* ViewController.m */,
@@ -245,6 +248,7 @@
 			files = (
 				C476272D1CA0E740005992BA /* LaunchScreen.storyboard in Resources */,
 				C476272A1CA0E740005992BA /* Assets.xcassets in Resources */,
+				C47627511CA0E7B8005992BA /* praiseShape00@2x.png in Resources */,
 				C47627281CA0E740005992BA /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
